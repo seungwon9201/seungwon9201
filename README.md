@@ -13,6 +13,13 @@
           <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat-square&logo=Matlab&logoColor=white">
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white"> 
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=black"> 
+  <img src="https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=VirtualBox&logoColor=white">
+
+
+
+        
           </div>
     </div>
     <div align= "center">
