@@ -1,5 +1,5 @@
 ## Hi there ✋ I'm SeungWon  
-### I'm studying Security & AI  
+### Studying Security & AI  
 
 ---
 
@@ -13,8 +13,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)
 
----
-
 ### **Operating Systems & Virtualization**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/KaliLinux-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
@@ -22,10 +20,8 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=black)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-2F61B4?style=flat-square&logo=VirtualBox&logoColor=white)
 
----
-
 ### **Networking & Security**  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white)
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=BurpSuite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 ![Apache2](https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=Apache&logoColor=white)
@@ -37,7 +33,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ey8967@gmail.com)
 
 
----
 
 ---
 
