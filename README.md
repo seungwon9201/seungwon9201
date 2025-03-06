@@ -1,78 +1,69 @@
-<div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi there ✋ I'm SeungWon </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I'm studying Security & AI </div> 
-</div>
+## Hi there ✋ I'm SeungWon  
+### I'm studying Security & AI  
 
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> 
+---
 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
-    <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-    <br/>
+## 🛠️ Tech Stacks  
 
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
-    <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat-square&logo=Matlab&logoColor=white">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
-    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
-    <br/>
+### **Languages & Tools**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-0076a8?style=flat-square&logo=Matlab&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)
 
-    <img src="https://img.shields.io/badge/KaliLinux-557C94?style=flat-square&logo=KaliLinux&logoColor=white"> 
-    <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=black"> 
-    <img src="https://img.shields.io/badge/VirtualBox-2F61B4?style=flat-square&logo=VirtualBox&logoColor=white">
-    <br/>
+---
 
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white"> 
-    <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=BurpSuite&logoColor=white"> 
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
-    <img src="https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=Apache&logoColor=white">
-    </div>
-</div>
+### **Operating Systems & Virtualization**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/KaliLinux-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)  
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=black)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-2F61B4?style=flat-square&logo=VirtualBox&logoColor=white)
 
+---
 
+### **Networking & Security**  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white)  
+![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=BurpSuite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
+![Apache2](https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=Apache&logoColor=white)
 
+---
 
-        
-          </div>
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://seungwon9201.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://seungwon9201.tistory.com/"> </a>
-         <a href=mailto:ey8967@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ey8967@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    
+## 🧑‍💻 Contact me  
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://seungwon9201.tistory.com/)  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ey8967@gmail.com)
 
 
-## Stack
+---
 
-<div align=center> 
+---
 
-    <img src="https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white"> 
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=black"> 
-  <img src="https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=VirtualBox&logoColor=white">
+### 🎓 Education & Awards  
 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <br>
-  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> 
-  <img src="https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white"> 
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=black"> 
-  <img src="https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=VirtualBox&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"> 
-  <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=BurpSuite&logoColor=white"> 
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=Apache&logoColor=white">
-  <br>
- 
-</div>
+- 📚 **2024 AI보안 기술개발 교육과정 - 네트워크반 수료**  
+  - **주최/주관:** 한국정보보호산업협회(KISIA)  
+  - **교육기간(집체교육):** 2024.07.08 ~ 2024.08.02  
+  - **프로젝트 기간:** 2024.08.02 ~ 2024.11.28  
+  - **최종 발표:** 2024 최신 정보보호 개발 트렌드 세미나 (11.28)  
+  - 🏆 **프로젝트 최우수상(상금 150만원)**
+  - 🏆 **한국정보보호산업협회장상 수상**  
+
+- 🎯 **2024 제2회 KISIA 정보보호 개발자 해커톤 본선 진출**  
+  - **주최:** 과학기술정보통신부 / KISIA  
+  - **일정:** 2024.08.20 ~ 2024.08.21(무박 2)  
+  - **장소:** 양재 AT Center 창조홀  
+
+---
+
+### 📝 Publications & Conference Presentations  
+
+- 📄 **KIISC 동계학술대회(CISC-W'24) 학부생 논문 제출**  
+  - **주최:** 한국정보보호학회(KIISC)  
+  - **발표 방식:** 포스터 발표  
+  - **일정:** 2024.11.28 (목) ~ 11.29 (금)  
+
+
+
