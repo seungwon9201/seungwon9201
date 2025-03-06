@@ -1,6 +1,6 @@
 
 
-# 👋 Hi there! I'm SeungWon Yang 
+## 👋 Hi there!
 
 ## 🔍 Research Interests
 - 🔥 **Network Security & Machine Learning**
