@@ -1,11 +1,10 @@
+### Hi there 👋, my name is SeungWon
+
+- 🌱 I’m currently learning Security, AI 
+- 📫 How to reach me: ey8967@gmail.com 
 
 
-## 👋 Hi there!
-
-## 🔍 Research Interests
-- 🔥 **Network Security & Machine Learning**
-- 📌 **Adversarial Attacks & Defenses**
-- 🛠 **Deep Learning for Intrusion Detection**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/seungwon9201)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/haxe.svg' alt='haxe' height='40'>](https://seungwon9201.tistory.com/)  
 
 
 <div align=center><h1>📚 STACKS</h1></div>
