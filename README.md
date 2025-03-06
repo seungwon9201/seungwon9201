@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/ey8968@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+<img src="https://img.shields.io/badge/ey8967@gmail.com-EA4335?style=flat-square&logo=naver&logoColor=white"/>
