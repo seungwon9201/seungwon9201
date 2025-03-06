@@ -57,7 +57,7 @@
 
 ---
 
-### 📝 Publications & Conference Presentations  
+### 📝 Research & Publications  
 
 - 📄 **KIISC 동계학술대회(CISC-W'24) 학부생 논문 제출**  
   - **주최:** 한국정보보호학회(KIISC)  
