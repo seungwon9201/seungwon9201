@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"> 
   <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=BurpSuite&logoColor=white"> 
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Dovecot-54BCAB?style=for-the-badge&logo=Dovecot&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
