@@ -1,5 +1,5 @@
-## Hi there ✋ I'm SeungWon  
-### Studying Security & AI  
+## Hi there ✋
+### I'm Studying Security & AI  
 
 ---
 
@@ -31,8 +31,6 @@
 ## 🧑‍💻 Contact me  
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://seungwon9201.tistory.com/)  
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ey8967@gmail.com)
-
-
 
 ---
 
