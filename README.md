@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/ey8968@naver.com-03C75A?style=<STYLE>&logo=<LOGO>&logoColor=<LOGO-COLOR>"/>
+<img src="https://img.shields.io/badge/ey8968@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/>
