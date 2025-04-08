@@ -1,8 +1,3 @@
-## Hi there ✋
-### I'm Studying Security & AI  
-
----
-
 ## 🛠️ Tech Stacks  
 
 ### **Languages**  
