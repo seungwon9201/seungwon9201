@@ -24,8 +24,6 @@
 ### **Networking & Security**  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white)
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=BurpSuite&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
-![Apache2](https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=Apache&logoColor=white)
 
 ---
 
