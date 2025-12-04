@@ -1,70 +1,85 @@
-## 🛠️ Tech Stacks  
+<img width="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
-### **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-
-
-### **AI & Machine Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFDD00?style=flat-square&logo=huggingface&logoColor=black)  
-![Matlab](https://img.shields.io/badge/Matlab-0076a8?style=flat-square&logo=Matlab&logoColor=white)  
-
-### **Operating Systems & Virtualization**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/KaliLinux-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)  
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=black)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-2F61B4?style=flat-square&logo=VirtualBox&logoColor=white)
-
-### **Networking & Security**  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white)
-![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=BurpSuite&logoColor=white)
+<h1>
+Hello!, I am <a href="https://github.com/seungwon9201">Seungwon Yang</a>
+<img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif">
+</h1>
 
 ---
 
-## 🧑‍💻 Contact   
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ey8967@gmail.com)  [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:ey8968@naver.com)  [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://seungwon9201.tistory.com/)
+### 📬 Find me at
+[![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/seungwon9201)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seung-won-yang-144a12372/)
+[![Tistory Badge](https://img.shields.io/badge/-Tistory-000000?style=flat-square)](https://seungwon9201.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ey8967@gmail.com)
 
 ---
 
-### 🎓 Education & Awards  
+### A little about me...
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-- 📚 **2024 AI보안 기술개발 교육과정 - 네트워크반 수료**  
-  - **주최/주관:** 과학기술정보통신부 / 한국정보보호산업협회(KISIA)  
-  - **교육기간:** 2024.07.08 ~ 2024.08.02  
-  - **프로젝트 기간:** 2024.08.02 ~ 2024.11.28  
-  - **최종 발표:** 2024.11.28 - 노보텔 앰배서더 강남(2024 최신 정보보호 개발 트렌드 세미나)
-  - 🏆 **프로젝트 최우수상(상금 150만원)**
-  - 🏆 **한국정보보호산업협회장상 수상**  
+I'm an **Undergraduate Student 🎓** at  
+**Konkuk University**, majoring in  
+**Smart ICT Convergence Engineering**.
 
-- 🎯 **2024 제2회 KISIA 정보보호 개발자 해커톤 - 본선 진출**  
-  - **주최:** 과학기술정보통신부 / KISIA  
-  - **일정:** 2024.08.20 ~ 2024.08.21 - 양재 AT Center 창조홀
- 
-- 📚 **차세대 보안 리더 양성 프로그램 BOB(BEST OF THE BEST) 14기 - 보안제품개발**  
-  - **주최/주관:** 과학기술정보통신부 / 한국정보기술연구원(KITRI)
-  - **교육기간:** 2025.07.01 ~ ing 
+I am especially interested in **AI Security, Network Security, and Agentic AI systems**,  
+and I focus on building **practical, executable security systems** that operate in real-world environments, rather than just implementing models.
 
 ---
 
-### 📝 Research & Publications  
+<details>
+<summary><b>⚡️ A Few Quick Facts</b></summary>
 
-- 📄 **한국정보보호학회(KIISC) 동계학술대회(CISC-W'24) 논문 Accept**  
-  - **주최:** 한국정보보호학회(KIISC)  
-  - **발표 방식:** 포스터 발표  
-  - **일정:** 2024.11.28 (목) ~ 11.29 (금) - 곤지암 리조트
- 
-- 📄 **한국정보보호학회(KIISC) 하계학술대회(CISC-S'25) 논문 Accept**  
-  - **주최:** 한국정보보호학회(KIISC)  
-  - **발표 방식:** 포스터 발표  
-  - **일정:** 2025.06.24 (목) ~ 06.25 (금) - 경주 더케이호텔
-  
-- 🧑‍💻 **건국대학교 지능형 네트워크 및 보안 연구실**
-  - 학부연구생 2025.02.01 ~ ing 
+<br/>
 
+- 🎓 **Undergraduate Student**  
+  Smart ICT Convergence Engineering (Computer Science), Konkuk University  
+  Minor in Management Of Technology (MOT), Konkuk University
 
+- 🧠 I enjoy working on:
+  - 🔐 AI Security & Agentic AI Systems
+  - 🤖 Machine Learning & Deep Learning
+  - 📊 Anomaly Detection
+  - 🌐 Network & System Security
+
+- 📝 I write technical blogs about AI & Security  
+- 👯 Looking to collaborate on **AI Security or System Security projects**  
+- 🎯 Goal: **Security R&D Engineer / Graduate School (Information Security & AI Security)**
+
+</details>
+
+<details>
+<summary><b>🎓 Education & Awards</b></summary>
+
+<br/>
+
+- 🎓 **K-Shield Jr. Startup (80H, Online)**
+
+- 🎓 **AI Security Technology Development Training Program – Network Track (3 months)**  
+  *Korea Information Security Industry Association (KISIA), 2024*  
+  - 🏆 **Project Excellence Award (₩1,500,000)**  
+  - 🏅 **President Award – Korea Information Security Industry Association**
+
+- 🎯 **2024 KISIA Information Security Developer Hackathon – Finalist**
+
+- 🎓 **BOB (Best of the Best) 14th – Security Product Development Track (6 months)**
+
+- 🏅 **2025 Open Source Developer Competition – Finalist (Outstanding Project)**
+
+</details>
+
+<details>
+<summary><b>📝 Research & Publications</b></summary>
+
+<br/>
+
+- 📄 **KIISC Winter Conference (CISC-W'24)** – Poster Presentation  
+- 📄 **KIISC Summer Conference (CISC-S'25)** – Poster Presentation  
+- 📄 **KIISC Winter Conference (CISC-W'25)** – Oral Presentation  
+
+- 🧑‍💻 **Undergraduate Research Assistant**  
+  Intelligent Network & Security Lab, Konkuk University (6 months)
+
+</details>
+
+⭐️ *Interested in securing agentic AI systems through practical monitoring and analysis.*
