@@ -9,7 +9,7 @@ Hello!, I am <a href="https://github.com/seungwon9201">Seungwon Yang</a>
 
 ### 📬 Find me at
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/seungwon9201)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/seungwon-yang-144a12372)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seungwon-yang-144a12372/)
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-000000?style=flat-square)](https://seungwon9201.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ey8967@gmail.com)
 
