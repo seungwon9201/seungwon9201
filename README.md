@@ -55,7 +55,7 @@ and I focus on building **practical, executable security systems** that operate 
 
 - 🎓 **K-Shield Jr. Startup (80H, Online)**
 
-- 🎓 **AI Security Technology Development Training Program – Network Track (3 months)**  
+- 🎓 **AI Security Technology Development Training Program – Network Track (6 months)**  
   *Korea Information Security Industry Association (KISIA), 2024*  
   - 🏆 **Project Excellence Award (₩1,500,000)**  
   - 🏅 **President Award – Korea Information Security Industry Association**
