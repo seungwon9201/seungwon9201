@@ -62,7 +62,7 @@ and I focus on building **practical, executable security systems** that operate 
 
 - 🎯 **2024 KISIA Information Security Developer Hackathon – Finalist**
 
-- 🎓 **BOB (Best of the Best) 14th – Security Product Development Track (6 months)**
+- 🎓 **BOB (Best of the Best) 14th – Security Product Development Track (7 months)**
 
 - 🏅 **2025 Open Source Developer Competition – Finalist (Outstanding Project)**
 
@@ -76,6 +76,8 @@ and I focus on building **practical, executable security systems** that operate 
 - 📄 **KIISC Winter Conference (CISC-W'24)** – Poster Presentation  
 - 📄 **KIISC Summer Conference (CISC-S'25)** – Poster Presentation  
 - 📄 **KIISC Winter Conference (CISC-W'25)** – Oral Presentation  
+- 📄 **KICS Winter Conference 2026** – Poster Presentation(2 papers)
+
 
 - 🧑‍💻 **Undergraduate Research Assistant**  
   Intelligent Network & Security Lab, Konkuk University (6 months)
