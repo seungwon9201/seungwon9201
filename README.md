@@ -23,7 +23,7 @@ Hello! I'm <a href="https://github.com/seungwon9201">Seungwon Yang</a>
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I'm passionate about **Cybersecurity**, with a particular interest in **AI Security, Network Security, and Vulnerability Management**.
+I'm passionate about **Cybersecurity**, with a particular interest in **AI Security, Network Security, and Network Security**.
 
 I focus on developing **practical security solutions** that address real-world threats, combining security research with hands-on implementation.
 
