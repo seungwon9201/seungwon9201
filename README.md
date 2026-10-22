@@ -6,7 +6,7 @@ Hello! I'm <a href="https://github.com/seungwon9201">Seungwon Yang</a>
 <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif">
 </h1>
 
-**Cybersecurity | AI Security | Vulnerability Management**
+**Cybersecurity | AI Security | Network Security**
 
 ---
 
